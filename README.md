@@ -18,3 +18,6 @@ Definir como se le conoce a la fuente de voltaje y la resistencia en serie dentr
 ![Diagrama en blanco (4)](https://user-images.githubusercontent.com/94008521/149223551-11bdd5e3-4237-4407-bf25-181800b64476.png)
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
+
+![image](https://user-images.githubusercontent.com/105386939/177665205-fa320a6e-bd4d-4fbb-b2bc-aaeed97f4522.png)
+
